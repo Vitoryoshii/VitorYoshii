@@ -1,7 +1,6 @@
 ## Olá!, Sou Vitor Yoshii
 
-- 🔭 Atualmente sou front-end
-- 🌱 Estudo Javascript
+- 🌱 Estudando front-end
 - 😄 Pronouns: ele/dele
 
 <div align="center">
